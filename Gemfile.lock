@@ -75,7 +75,8 @@ GEM
       terminal-table (~> 1.4)
     github-pages-health-check (1.16.1)
       addressable (~> 2.3)
-      dnsruby (~> 1.60)
+    gem "nokogiri","=1.10.8  
+	dnsruby (~> 1.60)
       octokit (~> 4.0)
       public_suffix (~> 3.0)
       typhoeus (~> 1.3)
